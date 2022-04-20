@@ -1,0 +1,4 @@
+.idea
+config/twitter.yml
+config/docomo_api.yml
+plugin/word_robot/word.db
